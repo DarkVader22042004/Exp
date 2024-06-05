@@ -1,0 +1,53 @@
+body {
+    padding: 10px;
+    margin: 0px;
+
+}
+
+#Yash {
+
+    border: 2px dashed black;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#error1 {
+    margin: 0px;
+    padding-bottom: 20px;
+}
+
+#error2 {
+    padding-top: 20px;
+    margin: 0px;
+}
+
+#title {
+    min-width: 360px;
+    padding-left: 10px;
+    background-color: rgb(255, 255, 98);
+    width: 100%;
+}
+
+#main {
+    min-width: 360px;
+    padding-left: 10px;
+    background-color: rgb(220, 220, 255);
+    width: 100%;
+}
+
+#end {
+    min-width: 360px;
+    padding-left: 10px;
+    background-color: rgb(147, 255, 169);
+    width: 100%;
+}
+
+#hobby {
+    background-color: rgb(244, 44, 77);
+    color: white;
+    border: 0px;
+    margin-bottom: 20px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
